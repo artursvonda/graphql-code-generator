@@ -1,5 +1,11 @@
 # @graphql-codegen/typescript-operations
 
+## 1.17.10
+
+### Patch Changes
+
+- 475aa9b8: @skip, @include directives resolve to optional fields
+
 ## 1.17.9
 
 ### Patch Changes

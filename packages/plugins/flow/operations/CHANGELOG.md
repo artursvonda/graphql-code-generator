@@ -1,5 +1,11 @@
 # @graphql-codegen/flow-operations
 
+## 1.18.3
+
+### Patch Changes
+
+- 475aa9b8: @skip, @include directives resolve to optional fields
+
 ## 1.18.2
 
 ### Patch Changes

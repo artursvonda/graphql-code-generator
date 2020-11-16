@@ -1,5 +1,11 @@
 # @graphql-codegen/typescript-vue-apollo
 
+## 2.2.1
+
+### Patch Changes
+
+- 4e0619e6: Use empty object as default value to variables parameter instead of question mark when variables of query is all optional.
+
 ## 2.2.0
 
 ### Minor Changes
